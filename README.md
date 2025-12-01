@@ -20,10 +20,13 @@ This README is for **educational and authorized security testing only.**
 kid = **Key ID**  
 It tells the server **which signing key** to load when validating a JWT.
 
-![JWT Header Screenshot](screenshot.png)
+Example:
+
+<img width="841" height="394" alt="Screenshot 2025-12-01 172834" src="https://github.com/user-attachments/assets/51355fcf-4e3a-4157-8562-a596d4b3e326" />
 
 
-Example normal header:
+
+normal header:
 
 json
 {
