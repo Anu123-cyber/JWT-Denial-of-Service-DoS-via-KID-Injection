@@ -15,16 +15,16 @@ This README is for **educational and authorized security testing only.**
 
 ---
 
-# What is `kid`?
+# What is kid ?
 
-`kid` = **Key ID**  
+kid = **Key ID**  
 It tells the server **which signing key** to load when validating a JWT.
 
 ![JWT Header Screenshot](dc11d01f-441e-44e4-a8e3-967553da66da.png)
 
 Example normal header:
 
-```json
+json
 {
   "alg": "RS256",
   "kid": "default"
