@@ -130,6 +130,7 @@ Each JWT validation pauses for 10 seconds
 Heavy DoS if multiple requests hit the server
 
  **How to Test DoS Safely**
+ 
 ✔ Send original token
 
 Ensure it is still valid.
